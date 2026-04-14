@@ -1,0 +1,49 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 96 96"
+  fill="none"
+  role="img"
+  aria-labelledby="brandTitle brandDesc"
+>
+  <title id="brandTitle">Buenos Días Markenzeichen</title>
+  <desc id="brandDesc">
+    Ein stilisiertes Symbol aus Sonne, Sprechblase und offenem Buch.
+  </desc>
+  <defs>
+    <linearGradient id="brandGradient" x1="18" y1="18" x2="74" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4C56F" />
+      <stop offset="1" stop-color="#D79A2F" />
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="64" height="64" rx="24" fill="#FFF8ED" />
+  <path
+    d="M28 61.5C28 51.2827 36.2827 43 46.5 43H58.5C63.1944 43 67 46.8056 67 51.5V61C67 63.7614 64.7614 66 62 66H42.5L34 72V66.5C30.6863 66.5 28 63.8137 28 60.5V61.5Z"
+    fill="#FFF3D9"
+    stroke="url(#brandGradient)"
+    stroke-width="2.2"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M35.5 54C39.1 51.0667 42.8667 49.6 46.8 49.6C50.7333 49.6 54.5667 51.0667 58.3 54"
+    stroke="#24305F"
+    stroke-width="2.4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M48 25C55.1797 25 61 30.8203 61 38H35C35 30.8203 40.8203 25 48 25Z"
+    fill="url(#brandGradient)"
+  />
+  <path
+    d="M28 47.5C31.7 44.5 35.9667 43 40.8 43C45.6333 43 49.9333 44.5 53.7 47.5"
+    stroke="#D79A2F"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    opacity="0.78"
+  />
+  <path
+    d="M31 71C35.208 64.88 40.8739 61.82 48 61.82C55.1261 61.82 60.792 64.88 65 71"
+    stroke="#E85F59"
+    stroke-width="2.4"
+    stroke-linecap="round"
+  />
+</svg>
